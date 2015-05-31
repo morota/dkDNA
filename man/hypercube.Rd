@@ -30,10 +30,10 @@ hypercube(X, theta)
 \references{
   Kondor R and Lafferty J: (2002) Diffusion Kernels on Graphs and Other Discrete Input Spaces. ICML. 
 
-  Morota G and Koyama M: (2012) Diffusion kernels on SNP data embedded in a non-Euclidean metric. In preparation. 
+  Morota G, Koyama M, Rosa GJM, Weigel KA, and Gianola D. (2013). Predicting complex traits using a diffusion kernel on genetic markers with an application to dairy cattle and wheat data. Genetics Selection Evolution. 45:17. 
 }
 \author{
-  Gota Morota \email{morota@ansci.wisc.edu} and Masanori Koyama \email{koyama@math.wisc.edu}
+  Gota Morota \email{morota@unl.edu} and Masanori Koyama \email{koyama.masanori@gmail.com}
 }
 \examples{
 # set a seed
